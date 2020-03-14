@@ -87,5 +87,7 @@ typings/
 # File .idea/ of IDE code
 .idea/
 
+.exercism/
+
 **/package-lock.json
 
